@@ -1,7 +1,5 @@
 # SpringBoot(1)SpringBoot入门
 
-# SpringBoot学习笔记（一）：入门篇
-
 > 本文介绍springboot的简单入门
 
 ### 一、springboot的优点
