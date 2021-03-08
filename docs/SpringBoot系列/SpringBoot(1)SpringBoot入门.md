@@ -1,15 +1,15 @@
 # SpringBoot(1)SpringBoot入门
 
-> 本文介绍springboot的简单入门
+> 本文介绍SpringBoot的简单入门
 
-### 一、springboot的优点
+### 一、SpringBoot的优点
 
 1. 使用Java开发基于Spring的应用程序非常容易。
 2. 开箱即用，有自己自定义的配置就是用自己的，没有就使用官方提供的默认的。
 3. 避免了编写大量的样板代码，注释和XML配置。
 3. 提供嵌入式HTTP服务器，如Tomcat，Jetty等，以开发和测试Web应用程序非常容易。
 
-### 二、springboot的简单搭建
+### 二、SpringBoot的简单搭建
 1.使用idea新建项目
 
 ![1570549187669-8e74f1d7-ffd8-4ce0-b5e1-7178cf6346c5](https://image-twy2018.oss-cn-hangzhou.aliyuncs.com/note/1570549187669-8e74f1d7-ffd8-4ce0-b5e1-7178cf6346c5.jpeg)
@@ -44,7 +44,7 @@ public class HelloController {
 ### 三、@SpringBootApplication核心注解
 
 
-- springboot需要一个启动类，该类必须在所有的包最外层
+- SpringBoot需要一个启动类，该类必须在所有的包最外层
 
 ```java
 package com.twy.springbootdemo;
