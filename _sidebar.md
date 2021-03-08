@@ -44,4 +44,5 @@
   * [windows端口号被占用解决办法](./docs/常用工具/windows端口号被占用解决办法.md)
   * 开发工具
     * [nacos(windows)安装与配置](./docs/常用工具/nacos(windows)安装与配置.md)
+    * [xftp、xshell家庭_学生版](./docs/常用工具/xftp、xshell家庭_学生版（免费下载）.md)
 
